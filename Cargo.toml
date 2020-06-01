@@ -1,0 +1,8 @@
+[package]
+name = "deno_servo"
+version = "0.0.1"
+authors = ["Divy Srivastava"] # add your names here
+
+[dependencies]
+libservo = { git = "https://github.com/servo/servo", rev = "17d7a12" }
+glutin = "0.13.1"
