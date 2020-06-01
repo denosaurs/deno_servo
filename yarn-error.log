@@ -1,0 +1,26 @@
+Arguments: 
+  /home/divy/.nvm/versions/node/v12.16.3/bin/node /usr/bin/yarn cache clean
+
+PATH: 
+  /home/divy/.deno/bin:/home/divy/.nimble/bin:/home/divy/swift-5.1.4-RELEASE-ubuntu18.04/usr/bin:/home/divy/.cargo/bin:/home/divy/.local/bin:/home/divy/.deno/bin:/home/divy/.nimble/bin:/home/divy/swift-5.1.4-RELEASE-ubuntu18.04/usr/bin:/home/divy/.cargo/bin:/home/divy/.local/bin:/home/divy/.deno/bin:/home/divy/.nvm/versions/node/v12.16.3/bin:/home/divy/.nimble/bin:/home/divy/swift-5.1.4-RELEASE-ubuntu18.04/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOSPC: no space left on device, mkdir '/home/divy/.cache/yarn/v6/.tmp'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
